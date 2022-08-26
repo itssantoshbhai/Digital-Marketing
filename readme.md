@@ -3,7 +3,7 @@
 ## This is Project-2
 
 Live Link 🔗
-https://restaurant-front-page.netlify.app/
+https://digital-marketing-pr-4.netlify.app/
 
 ## SNAP
 
