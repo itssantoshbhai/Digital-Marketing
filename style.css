@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;1,500&family=Montserrat:wght@800&family=Poppins:wght@600;800;900&display=swap');
+
+body{
+    font-family: poppins;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-left: 17%;
+    margin-right: 50%;
+    margin-top: -7.5%;
+    color: grey;
+}
+.homie{
+    color: black;
+}
+nav div img:first-child{
+    margin: 4% 4%;
+}
+.button-group{
+    margin-left: 84%;
+    margin-top: -4.5%;
+    z-index: 100;
+}
+nav .nav-button{
+    background-color: #555df7;
+    border: none;
+    padding: 11px 17px;
+    border-radius: 12px;
+    font-size: 20px;
+    color: #fff;
+}
+div .heading-text{
+    margin-left: 4%;
+    margin-right: 60%;
+    text-align: left;
+    line-height: 60px;
+    font-size: 50px;
+    margin-top: 10%;
+}
+.description{
+    margin-left: 4%;
+    margin-right: 68%;
+    font-size: 14.7px;
+    color: #807e75;
+    margin-top: -2%;
+}
+.banner-container .nav-button{
+    background-color: #555df7;
+    border: none;
+    padding: 20px 35px;
+    margin-left: 4%;
+    border-radius: 14px;
+    margin-top: 4%;
+}
+.banner-container img:last-child{
+    margin-top: -35%;
+    height: 550px;
+    margin-left: 50%;
+    overflow: hidden;
+}
